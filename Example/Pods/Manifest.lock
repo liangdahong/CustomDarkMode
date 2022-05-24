@@ -1,0 +1,16 @@
+PODS:
+  - CustomTheme (0.1.0)
+
+DEPENDENCIES:
+  - CustomTheme (from `../`)
+
+EXTERNAL SOURCES:
+  CustomTheme:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CustomTheme: b70522904dc336fa29e085d3e41cebda177ae2af
+
+PODFILE CHECKSUM: 0b1f3330b63b8f09448b411755801473640df3a4
+
+COCOAPODS: 1.11.3

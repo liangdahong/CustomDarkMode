@@ -1,0 +1,6 @@
+framework module CustomTheme {
+  umbrella header "CustomTheme-umbrella.h"
+
+  export *
+  module * { export * }
+}
