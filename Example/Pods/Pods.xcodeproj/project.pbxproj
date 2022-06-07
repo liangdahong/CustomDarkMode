@@ -48,14 +48,14 @@
 		203FB2B7A211F3BA9E116C1DCF7BC5F4 /* Pods-CustomTheme_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CustomTheme_Tests-dummy.m"; sourceTree = "<group>"; };
 		3117311DE964C295C08AACA228E92A23 /* CustomThemeService.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CustomThemeService.swift; path = CustomTheme/Classes/CustomThemeService.swift; sourceTree = "<group>"; };
 		4AE57BC1CBFBD0B0A1D6B2B925B8FD2C /* CustomTheme.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CustomTheme.release.xcconfig; sourceTree = "<group>"; };
-		56B068D6CCDC0DB004F1841380F2FBCE /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		56B068D6CCDC0DB004F1841380F2FBCE /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		5F957DE25426F0F115E71C6E2A437E2C /* Pods-CustomTheme_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CustomTheme_Example-umbrella.h"; sourceTree = "<group>"; };
-		68D078541934AC4BD6AFC0793CEBD5B9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		68D078541934AC4BD6AFC0793CEBD5B9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		6D09F8402461C49BE01D0CAA35362521 /* CustomTheme.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CustomTheme.swift; path = CustomTheme/Classes/CustomTheme.swift; sourceTree = "<group>"; };
 		70787963ED00945C6A260F3146D3B9E3 /* Pods-CustomTheme_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CustomTheme_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		9C9339632D470AE49E2B2A04D59E8EE4 /* CustomTheme-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "CustomTheme-Info.plist"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A24BC519B2530C5151EC48FABC0E8A5B /* Pods-CustomTheme_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CustomTheme_Example-Info.plist"; sourceTree = "<group>"; };
 		A64BEDE0A7B6B2F2001721078EE467D6 /* Pods-CustomTheme_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CustomTheme_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		A6D3A74697244ECC4AB5C0797F1B5107 /* Pods-CustomTheme_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CustomTheme_Example.modulemap"; sourceTree = "<group>"; };
@@ -65,7 +65,7 @@
 		BB3B0658F20F5F0D16D42BC4DD8D881C /* CustomTheme */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = CustomTheme; path = CustomTheme.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE93ED4BCE6E624CE26E2E6335ABDDA3 /* Pods-CustomTheme_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CustomTheme_Example.release.xcconfig"; sourceTree = "<group>"; };
 		CB48EAAC657ABCEE59BF5E645A0421AD /* Pods-CustomTheme_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CustomTheme_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		CD39D755B08105C6D4809A5E97B88289 /* CustomTheme.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = CustomTheme.podspec; sourceTree = "<group>"; tabWidth = 2; };
+		CD39D755B08105C6D4809A5E97B88289 /* CustomTheme.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = CustomTheme.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		D30132F25D1DE65029259AB11A95FEEB /* Pods-CustomTheme_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CustomTheme_Tests-Info.plist"; sourceTree = "<group>"; };
 		D58F683D281C1FD893C33B3C1FD993E3 /* CustomTheme.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = CustomTheme.modulemap; sourceTree = "<group>"; };
 		E4E8D701A79FFACBBEFB9B5F06085A36 /* CustomTheme.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CustomTheme.debug.xcconfig; sourceTree = "<group>"; };
@@ -661,7 +661,8 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
